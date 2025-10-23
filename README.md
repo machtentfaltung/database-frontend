@@ -8,3 +8,10 @@
 <img width="506" alt="Screenshot 2024-04-22 at 19 45 53" src="https://github.com/matei9k/swiftuidb/assets/142879544/afd564e7-045e-4005-b185-f385e06cdeaf">
 
 </div>
+
+## License
+
+<img width="150" src="https://upload.wikimedia.org/wikipedia/commons/9/93/GPLv3_Logo.svg">
+
+This project is licensed under the terms of the [GNU General Public License v3.0 or later](https://www.gnu.org/licenses/gpl-3.0.html).  
+See the [COPYING](COPYING) file for the full license text.
